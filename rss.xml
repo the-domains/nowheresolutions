@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nowheresolutions]]></title>
+        <description><![CDATA[nowheresolutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 18:21:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Websites: Far from a solved problem. I love websites but it's so hard to make one. Mostly just because it's hard to maintain a website. I imagine the same problem exists for books and other large projects. Single Piece Flow is usually the best strategy for making something with as little waste as possible, but a large body of work that continues to expand for days or weeks is difficult to make "single piece". </p>]]></description>
+            <link>undefinedcc8e05df-94f9-4750-baf0-a52df0b17464/index.html</link>
+            <guid isPermaLink="false">cc8e05df-94f9-4750-baf0-a52df0b17464</guid>
+            <pubDate>Mon, 11 Apr 2016 18:21:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
