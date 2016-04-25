@@ -4,8 +4,15 @@
         <description><![CDATA[Nowher Solutions]]></description>
         <link>https://thegrid.ai/nowheresolutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 23:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 23:40:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nowheresolutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machine Learning - part 2]]></title>
+            <description><![CDATA[<p>Now I'm a pretty big fan of control systems which for some reason hasn't collided with machine learning to be absorbed into a general field of study. Basically, they are nearly the same. Anyway, what control theory teaches us is there's this thing called error, and that's what we learn from. People have all sorts of cute expressions to analogize this to life experience, but the point of the matter is: error is extremely important.</p>]]></description>
+            <link>https://thegrid.ai/nowheresolutions/machine-learning-part-2/index.html</link>
+            <guid isPermaLink="false">b6772743-c17e-4e03-9146-9f10b87e4106</guid>
+            <pubDate>Mon, 25 Apr 2016 23:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machine Learning - part 1]]></title>
             <description><![CDATA[<p>So it seems like at first what we learn from machine learning is: things are correlated. Crazytown I know, but yes there are things we want to know and those things are, in fact, often related to things we already know or can know. </p>]]></description>
