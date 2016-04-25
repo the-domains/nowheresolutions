@@ -4,8 +4,15 @@
         <description><![CDATA[Nowher Solutions]]></description>
         <link>https://thegrid.ai/nowheresolutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 23:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 23:29:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nowheresolutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machine Learning - part 1]]></title>
+            <description><![CDATA[<p>So it seems like at first what we learn from machine learning is: things are correlated. Crazytown I know, but yes there are things we want to know and those things are, in fact, often related to things we already know or can know. </p>]]></description>
+            <link>https://thegrid.ai/nowheresolutions/machine-learning-part-1/index.html</link>
+            <guid isPermaLink="false">800e5162-c70e-4961-abd7-392a35595b8d</guid>
+            <pubDate>Mon, 25 Apr 2016 23:29:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learning]]></title>
             <description><![CDATA[<p>So recently I started taking the Machine Learning NanoDegree from Udacity, and I think it's pretty cool. Unfortunately for me I've read a whole lot about machine learning (and learning in general) in the past so a lot of it feels like things I've heard over and over again. This, I guess, is the value of actually going to school for something, you have the confidence of having actually been certified to know something, even if the value of that certification is unreliable - at least it exists. Hence, I'm taking a nanodegree; that way I'll have some certification that I know some things and maybe then I can get a start and my projects will then speak for themselves.</p>]]></description>
