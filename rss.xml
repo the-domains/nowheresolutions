@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[nowheresolutions]]></title>
-        <description><![CDATA[nowheresolutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Nowher Solutions]]></title>
+        <description><![CDATA[Nowher Solutions]]></description>
+        <link>https://thegrid.ai/nowheresolutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 18:21:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 23:11:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nowheresolutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learning]]></title>
+            <description><![CDATA[<p>So recently I started taking the Machine Learning NanoDegree from Udacity, and I think it's pretty cool. Unfortunately for me I've read a whole lot about machine learning (and learning in general) in the past so a lot of it feels like things I've heard over and over again. This, I guess, is the value of actually going to school for something, you have the confidence of having actually been certified to know something, even if the value of that certification is unreliable - at least it exists. Hence, I'm taking a nanodegree; that way I'll have some certification that I know some things and maybe then I can get a start and my projects will then speak for themselves.</p>]]></description>
+            <link>https://thegrid.ai/nowheresolutions/learning/index.html</link>
+            <guid isPermaLink="false">db6822d2-e247-43e2-87bb-396aa1d63586</guid>
+            <pubDate>Mon, 25 Apr 2016 23:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Websites: Far from a solved problem. I love websites but it's so hard to make one. Mostly just because it's hard to maintain a website. I imagine the same problem exists for books and other large projects. Single Piece Flow is usually the best strategy for making something with as little waste as possible, but a large body of work that continues to expand for days or weeks is difficult to make "single piece". </p>]]></description>
-            <link>undefinedcc8e05df-94f9-4750-baf0-a52df0b17464/index.html</link>
+            <link>https://thegrid.ai/nowheresolutions/cc8e05df-94f9-4750-baf0-a52df0b17464/index.html</link>
             <guid isPermaLink="false">cc8e05df-94f9-4750-baf0-a52df0b17464</guid>
             <pubDate>Mon, 11 Apr 2016 18:21:19 GMT</pubDate>
         </item>
