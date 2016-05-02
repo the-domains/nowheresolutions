@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nowher Solutions]]></title>
-        <description><![CDATA[Nowher Solutions]]></description>
+        <title><![CDATA[Nowhere Solutions]]></title>
+        <description><![CDATA[Nowhere Solutions]]></description>
         <link>https://thegrid.ai/nowheresolutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 23:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 04:35:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nowheresolutions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machine Learning - Part 3]]></title>
+            <description><![CDATA[<p>This came up so many times it made me sick, but overfitting is a huge challenge in machine learning. There's a pretty good reason, if you look back I talked about error. Well if you imagine any observation is made up of something we wanted to observe, and elements we did not want to observe, yet observed by mistake (error). Now it may not be known what we wanted to observe or how it relates to what we actually did observe, but that's okay. One mistake we can make, however, is to assume that our observation is entirely useful. When we do that, we have observed noise and interpreted it as signal. I said elements we observed by mistake because sometimes noise can actually be useful information, just not by our current observation. For example, if I wanted to determine the speed of a motor powering a saw in a saw mill and I decided I would use rough calculations based on computer vision from a feed of logs approaching the saw. Well I might find that it's sometimes hard to see the logs through the camera because too much sawdust is in the way, and I might consider that noise. However, if I was clever I might use the amount of the field of view obstructed by sawdust as my signal, and then it isn't noise at all. Just like quantum mechanics, it's all a matter of perspective. </p>]]></description>
+            <link>https://thegrid.ai/nowheresolutions/machine-learning-part-3/index.html</link>
+            <guid isPermaLink="false">9ca2e4cb-6fdb-4e47-9655-a1e3861b07d4</guid>
+            <pubDate>Mon, 02 May 2016 04:35:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machine Learning - part 2]]></title>
             <description><![CDATA[<p>Now I'm a pretty big fan of control systems which for some reason hasn't collided with machine learning to be absorbed into a general field of study. Basically, they are nearly the same. Anyway, what control theory teaches us is there's this thing called error, and that's what we learn from. People have all sorts of cute expressions to analogize this to life experience, but the point of the matter is: error is extremely important.</p>]]></description>
